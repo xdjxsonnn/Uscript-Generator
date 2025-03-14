@@ -11,6 +11,7 @@ A tool to generate UnrealScript (Uscript) files from JSON data extracted using F
 - Entire POI
 - Vertex Data
 - Splines
+- Foliage
 
 ## Requirements
 - Python 3.x (Recommended)
